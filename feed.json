@@ -1,0 +1,28 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Rahul Hegde",
+    "description": "",
+    "home_page_url": "https://therahulhegde.github.io",
+    "feed_url": "https://therahulhegde.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Rahul Hegde"
+    },
+    "items": [
+        {
+            "id": "https://therahulhegde.github.io/hello-world/",
+            "url": "https://therahulhegde.github.io/hello-world/",
+            "title": "Hello World",
+            "summary": "This is the first blog for this and I don't know what to write",
+            "content_html": "<p>This is the first blog for this and I don't know what to write</p>",
+            "image": "https://therahulhegde.github.io/media/posts/1/Himalayas-2.png",
+            "author": {
+                "name": "Rahul Hegde"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-01-18T23:20:55+05:30",
+            "date_modified": "2023-01-18T23:42:59+05:30"
+        }
+    ]
+}
