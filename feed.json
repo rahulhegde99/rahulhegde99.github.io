@@ -10,8 +10,8 @@
     },
     "items": [
         {
-            "id": "https://rahulhegde99.github.io/hello-world.html",
-            "url": "https://rahulhegde99.github.io/hello-world.html",
+            "id": "https://rahulhegde99.github.io/hello-world/",
+            "url": "https://rahulhegde99.github.io/hello-world/",
             "title": "Hello World",
             "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit&hellip;",
             "content_html": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://rahulhegde99.github.io/media/posts/1/download-4.png\" alt=\"\" width=\"655\" height=\"655\" sizes=\"100vw\" srcset=\"https://rahulhegde99.github.io/media/posts/1/responsive/download-4-xs.png 300w ,https://rahulhegde99.github.io/media/posts/1/responsive/download-4-sm.png 480w ,https://rahulhegde99.github.io/media/posts/1/responsive/download-4-md.png 768w ,https://rahulhegde99.github.io/media/posts/1/responsive/download-4-lg.png 1024w ,https://rahulhegde99.github.io/media/posts/1/responsive/download-4-xl.png 1360w ,https://rahulhegde99.github.io/media/posts/1/responsive/download-4-2xl.png 1600w\"></figure>",
